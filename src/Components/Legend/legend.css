@@ -1,0 +1,135 @@
+.table-pop{background:white}
+.table-pop > table{width:240px;height:auto;color:gray;}
+.tbody-pop >tr>th{width: 120px;}
+.table-zong{
+        /* position: absolute;bottom:40px;right: 100px;width: 260px;border-radius: 4px;     */
+}
+.table-top{
+    background-color: rgb(220, 220, 220);height: 40px;position: relative;
+}
+.table-top >div{background-color: #178D82;
+    width: 4px;
+    height: 20px;
+    position: absolute;
+    left: 14px;
+    top: 10px;
+}
+.table-top>span{
+    display: inline-block;
+    font-size: 20px;
+    position: absolute;
+    left: 24px;
+    top: 6px;
+}
+.table-top>a{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    font-size: 30px;
+    top: -4px;
+    color:#8c8c8c;
+    cursor: pointer;
+}
+
+/* personGlobal */
+.PG_legend{
+    height: 180px;
+}
+
+.PG_legend>div{
+    height: 32px;
+    position: relative;
+}
+
+.PG_legend>div>span{
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+    top: 12px;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+.PG_legend>div>div{
+    width: 20px;
+    height: 16px;
+    position: absolute;
+    left: 20px;
+    top: 16px;
+}
+
+
+/* chinaPerson */
+.CP_legend{
+    height: 244px;
+}
+
+.CP_legend>div{
+    height: 32px;
+    position: relative;
+}
+.CP_legend>div>div{
+    width: 20px;
+    height: 16px;
+    position: absolute;
+    left: 20px;
+    top: 16px;
+}
+.CP_legend>div>span{
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+    top: 12px;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+/* chinaWorker */
+.CW_legend{
+    height: 244px;
+}
+
+.CW_legend>div{
+    height: 32px;
+    position: relative;
+}
+.CW_legend>div>div{
+    width: 20px;
+    height: 16px;
+    position: absolute;
+    left: 20px;
+    top: 16px;
+}
+.CW_legend>div>span{
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+    top: 12px;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+/* chinaOldPerson */
+.CO_legend{
+    height: 244px;
+}
+
+.CO_legend>div{
+    height: 32px;
+    position: relative;
+}
+.CO_legend>div>div{
+    width: 20px;
+    height: 16px;
+    position: absolute;
+    left: 20px;
+    top: 16px;
+}
+.CO_legend>div>span{
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+    top: 12px;
+    font-size: 8px;
+    font-weight: bold;
+}

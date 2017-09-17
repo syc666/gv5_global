@@ -1,0 +1,13 @@
+.table-pop{position: absolute;right: 20px;top:-90px;background-color: gray;z-index: 999;    width: 260px;
+    font-size: 20px;
+    background: white;
+    padding: 0 14px;
+    border-radius: 3px;
+}
+.pop1,.pop2{
+    height: 40px;
+    line-height: 40px;
+}
+.pop1{
+    border-bottom: 1px solid gray;
+}

@@ -1,0 +1,24 @@
+.sizeChange{
+     position: absolute;
+    bottom: 50px;
+    right: 38px;
+    width: 30px;
+    background-color: white;
+    border-radius: 4px;
+    height: 100px; 
+   z-index: 10;
+
+}
+.sizeChange > button{
+    border-bottom: 1px solid gray;
+    height: 32px;
+    width: 30px;
+}
+.sizeChange >button >img{
+    display: table-cell;
+text-align: center;
+ vertical-align:middle;
+}
+.reset{
+    border-bottom: none !important;
+}
